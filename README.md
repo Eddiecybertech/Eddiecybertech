@@ -11,8 +11,8 @@
 
 <h2> Certifiations:</h2>
 
-- [Google Cybersecurity Professional](https://coursera.org/share/3097b12380538031244c5aee2787d49d)
-- [Meta Intro To Frontend Development](https://coursera.org/share/11e328c918bd9704cf1b7c0996d2af1f)
+- [Google Cybersecurity Professional](https://github.com/Eddiecybertech/Cybersecurity-Professional-Certificate/tree/main)
+- [Meta Intro To Frontend Development](https://github.com/Eddiecybertech/Meta-Fronted-Web-Development/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
