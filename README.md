@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Eddie! </h1>
 
-<!--
-**Eddiecybertech/Eddiecybertech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- [Virtual Home SOC Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Risk assessment report](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Incident Report analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Penetration Testing Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [EDR Lab: Attack & Defense](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Little Lemon Front Page Using HTML and Bootstrap](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifiations:</h2>
+
+- [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Meta Intro To Frontend Development](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+- [linkedin]: www.linkedin.com/in/edidiongedet
