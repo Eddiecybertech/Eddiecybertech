@@ -11,8 +11,8 @@
 
 <h2> Certifiations:</h2>
 
-- [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Meta Intro To Frontend Development](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Google Cybersecurity Professional](https://coursera.org/share/3097b12380538031244c5aee2787d49d)
+- [Meta Intro To Frontend Development](https://coursera.org/share/11e328c918bd9704cf1b7c0996d2af1f)
 
 
 <h2> 🤳 Connect with me:</h2>
