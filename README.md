@@ -6,8 +6,7 @@
 - [Incident-report-analysis-project](https://github.com/Eddiecybertech/Incident-report-analysis-project)
 - [Nessus-Scanning-home-lab](https://github.com/Eddiecybertech/Nessus-Scanning-home-lab/blob/main/README.md)
 - [Incident-alert-triaging-project](https://github.com/Eddiecybertech/Incident-alert-triaging-project)
-- [EDR Lab: Attack & Defense](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Little Lemon Front Page Using HTML and Bootstrap](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Apply filters to SQL queries](https://github.com/Eddiecybertech/Apply-filters-to-SQL-queries/tree/main)
 
 <h2> Certifiations:</h2>
 
