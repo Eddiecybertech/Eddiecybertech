@@ -13,6 +13,11 @@
 - [Google Cybersecurity Professional](https://github.com/Eddiecybertech/Cybersecurity-Professional-Certificate/tree/main)
 - [Meta Intro To Frontend Development](https://github.com/Eddiecybertech/Meta-Fronted-Web-Development/tree/main)
 
+  <h2> Resume:</h2>
+
+- [My Resume](https://github.com/Eddiecybertech/My-resume)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 - [linkedin]: www.linkedin.com/in/edidiongedet
