@@ -4,7 +4,7 @@
 
 - [Boson Toys_ Scope, goals, and risk assessment report ](https://github.com/Eddiecybertech/Risk-assessment-report)
 - [Incident-report-analysis-project](https://github.com/Eddiecybertech/Incident-report-analysis-project)
-- [Incident Report analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Nessus-Scanning-home-lab](https://github.com/Eddiecybertech/Nessus-Scanning-home-lab/blob/main/README.md)
 - [Penetration Testing Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - [EDR Lab: Attack & Defense](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Little Lemon Front Page Using HTML and Bootstrap](https://github.com/joshmadakor1/Algorithms-Practice)
