@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Boson Toys_ Scope, goals, and risk assessment report ](https://github.com/Eddiecybertech/Risk-assessment-report)
-- [Risk assessment report](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Incident-report-analysis-project](https://github.com/Eddiecybertech/Incident-report-analysis-project)
 - [Incident Report analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Penetration Testing Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - [EDR Lab: Attack & Defense](https://github.com/joshmadakor1/Algorithms-Practice)
